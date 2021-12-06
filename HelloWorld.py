@@ -11,3 +11,6 @@
 
 str = "! Hello World !"
 print("\n"+str)
+
+a = La Terre est ronde
+print (a)
